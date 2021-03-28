@@ -1,0 +1,23 @@
+{
+  "name": "cola-markdown-loader",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asself/cola-markdown-loader.git"
+  },
+  "keywords": [],
+  "author": "asself",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asself/cola-markdown-loader/issues"
+  },
+  "homepage": "https://github.com/asself/cola-markdown-loader#readme",
+  "dependencies": {
+    "marked": "^2.0.1"
+  }
+}
